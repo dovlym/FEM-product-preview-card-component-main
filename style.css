@@ -11,7 +11,6 @@
     --neutral-cream:hsl(30, 38%, 92%);
     --neutral-grayish-blue:hsl(228, 12%, 48%);
     --neutral-white:hsl(0, 0%, 100%);
-    --thrid-color:#B49F6E;
     --primary-font-family:'Montserrat', sans-serif;
     --secundary-font-family:'Fraunces', serif;
 }
@@ -146,7 +145,8 @@ footer{
      text-align: center;
 }
 .attribution a { 
-    color:var(--thrid-color);
+    color:var(--secundary-color);
+    font-weight: 500;
 }
 
 /*Media queries*/
