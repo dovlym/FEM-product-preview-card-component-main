@@ -44,7 +44,7 @@ Users should be able to:
 
 ### Links
 
-[My Solution](https://dovelm.github.io/FEM-product-preview-card-component-main/)
+[My Solution](https://dovlym.github.io/FEM-product-preview-card-component-main/)
 
 
 
